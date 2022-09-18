@@ -1,1 +1,12 @@
-# cover_letter
+# Jericho C. Gregory
+I am a very driven person, often working consistently working seven days a week and well over 40 hours. I have been a lead engineer for just about a year on a government contract, where I have been the main developer and integrator of cyber security technologies. I work in nearly every field from networking, security operations, and even project management with oversight of multiple technological improvements across the contract.
+
+I have fully engineered multiple products by myself within the cyber security / government space with minimal assistance. Included in these works are fully managing, deploying and configuring a security orchestration and response platform. The technologies used for this include Python3, podman (Docker), Red Hat Linux, and multiple Rest API's of various applications. I have also fully developed a full-stack web application as well as the accompanying back-end server for the constituents we serve. This application is written with the Flutter / dart framework with the Rust actix backend framework. This was a task I worked on the side outside of my normal 40 hours to better improve our response time and efficiency in customer response. I also manage our Ansible platform troubleshooting and reverse engineering scripts to better add efficiency to our process and ease the workload on other team members. 
+
+In addition to my professional work, I am also a student at WVU in the master's programming for software engineering. Within my academic career, I try to focus more on machine learning and artificial intelligence. My main focus has been mixing machine learning with cyber security to attempt to leverage machine learning during red hat testing of web applications and security networks.
+
+Personal projects I have been working on have been simply better understanding the Rust programming language and developing full-stack applications with the Dart/Flutter framework. I do have previous experience as a mobile-applications developer with the "@Snowshoe" application within the App Store. I wrote every single line of code of the roughly 26k lines during the initial release of the application. I also took the same application and rewrote it's functionality with the React Javascript framework.
+
+I would say my evidence of excellence is my ability to be very self-motivated, basically competitive to my peers and a very strong ability to learn and seek proactive solutions to upcoming problems.
+
+V/r. 
